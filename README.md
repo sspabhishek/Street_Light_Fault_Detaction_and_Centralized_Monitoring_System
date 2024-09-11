@@ -33,7 +33,7 @@ The **Street_Light_Fault_Detection_and_Centralized_Monitoring_System** is a comp
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sspabhishek/Street_Light_Fault_Detaction_and_Centralized_Monitoring_System
+   git clone https://github.com/sspabhishek/Street_Light_Fault_Detection_and_Centralized_Monitoring_System
    ```
 
 2. **Install Dependencies**:
