@@ -9,10 +9,10 @@ const port = 3000; // Adjust the port if necessary
 const twilio = require('twilio');
 
 // Replace these variables with your own values from your Twilio account
-const accountSid = 'AC93bef971153317a4fbfa292b50e5e968'; //SID
-const authToken = 'b2e4eb53593829933b816cd09a09de31';  //YOUR_AUTH_TOKEN
-const twilioPhoneNumber = '+12343481517';
-const recipientPhoneNumber = '+919721859946'; // Replace with the recipient's phone number
+const accountSid = ''; //SID twlio.com
+const authToken = '';  //YOUR_AUTH_TOKEN
+const twilioPhoneNumber = '+';
+const recipientPhoneNumber = '+'; // Replace with the recipient's phone number
 
 // Create a Twilio client
 const client = new twilio(accountSid, authToken);
